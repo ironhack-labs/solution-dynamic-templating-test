@@ -1,0 +1,7 @@
+node_modules
+
+# package-lock.json added for maintainance purposes; it is not best practice
+package-lock.json
+
+# .env commented out for learning purposes
+# .env 
